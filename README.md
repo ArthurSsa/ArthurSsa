@@ -1,5 +1,5 @@
 ##  Olá, Eu sou o Arthur Santos 👋
-- 🔭 Atualmente trabalho com C#
+- 🔭 Atualmente trabalhando com Unity
 - 🌱 Estudando C e Front end
 
 <div style="display: inline_block">
